@@ -1,0 +1,13 @@
+﻿<Window x:Class="QuidditchWPF.Windows.GestionDesCoupes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestion des coupes" TextBlock.TextAlignment="Center" Height="156" Width="274"
+        Icon="../Ressources/Img/IconApp.jpg"
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing" Loaded="Window_Loaded"
+        MinHeight="184"
+        MinWidth="253"        
+        >
+    <StackPanel >
+        <ListBox  Name="lbCoupes"  />
+    </StackPanel>
+</Window>
