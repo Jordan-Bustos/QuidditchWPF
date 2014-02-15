@@ -1,0 +1,74 @@
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\QuidditchWPF.exe.config
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\QuidditchWPF.exe
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\QuidditchWPF.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\BusinessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\EntitiesLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\SubDataAccessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\BusinessLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\EntitiesLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\bin\Debug\SubDataAccessLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.csprojResolveAssemblyReference.cache
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservation.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesCoupes.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesEquipes.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesJoueurs.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesMatchs.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesStades.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\MainWindow.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservation.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservations.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesCoupes.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesEquipes.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesJoueurs.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesMatchs.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesReservations.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesStades.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\MainWindow.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\App.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF_MarkupCompile.cache
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF_MarkupCompile.lref
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservations.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesReservations.baml
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.g.resources
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.Properties.Resources.resources
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.csproj.GenerateResource.Cache
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.exe
+U:\licencePM\P2\C#\TPs\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\QuidditchWPF.exe.config
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.exe
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\QuidditchWPF.exe
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\QuidditchWPF.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\BusinessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\EntitiesLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\BusinessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\EntitiesLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.csprojResolveAssemblyReference.cache
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservation.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesCoupes.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesEquipes.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesJoueurs.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesMatchs.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesStades.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\MainWindow.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservation.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservations.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesCoupes.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesEquipes.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesJoueurs.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesMatchs.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesReservations.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesStades.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\MainWindow.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\App.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF_MarkupCompile.cache
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF_MarkupCompile.lref
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\View\CtrlReservations.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\Windows\GestionDesReservations.baml
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.g.resources
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.Properties.Resources.resources
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\obj\Debug\QuidditchWPF.csproj.GenerateResource.Cache
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\SubDataAccessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchWPF\bin\Debug\SubDataAccessLayer.pdb

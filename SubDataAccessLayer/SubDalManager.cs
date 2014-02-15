@@ -11,97 +11,52 @@ namespace SubDataAccessLayer
     /// <summary>
     /// Classe qui manage la couche d'acces au donnees en la bouchonant (subtagant).
     /// </summary>
-    public class DalManager
+    public class SubDalManager
     {
         /// <summary>
         /// La liste des joueurs.
         /// </summary>
         private List<Joueur> _joueurs;
-        /// <summary>
-        /// Accesseurs de la liste des joueurs.
-        /// </summary>
-        public List<Joueur> Joueurs
-        {
-            get { return _joueurs; }
-            set { _joueurs = value; }
-        }
 
         /// <summary>
         /// La liste des equipes
         /// </summary>
         private List<Equipe> _equipes;
-        /// <summary>
-        /// Accesseurs de la liste des equipes.
-        /// </summary>
-        public List<Equipe> Equipes
-        {
-            get { return _equipes; }
-            set { _equipes = value; }
-        }
 
         /// <summary>
         /// La liste des stades.
         /// </summary>
         private List<Stade> _stades;
-        /// <summary>
-        /// Accesseurs de la liste des stades.
-        /// </summary>
-        public List<Stade> Stades
-        {
-            get { return _stades; }
-            set { _stades = value; }
-        }
 
         /// <summary>
         /// La liste des matchs.
         /// </summary>
         private List<Match> _matchs;
-        /// <summary>
-        /// Accesseurs de la liste des matchs.
-        /// </summary>
-        public List<Match> Matchs
-        {
-            get { return _matchs; }
-            set { _matchs = value; }
-        }
 
         /// <summary>
         /// La liste des coupes.
         /// </summary>
         private List<Coupe> _coupes;
-        /// <summary>
-        /// Accesseur de la liste des coupes.
-        /// </summary>
-        public List<Coupe> Coupes
-        {
-            get { return _coupes; }
-            set { _coupes = value; }
-        }
 
         /// <summary>
         /// La liste des reservations.
         /// </summary>
         private List<Reservation> _reservations;
-        /// <summary>
-        /// Accesseurs des reservatations.
-        /// </summary>
-        public List<Reservation> Reservations
-        {
-            get { return _reservations; }
-            set { _reservations = value; }
-        }
 
         /// <summary>
         /// L'instance unique du manager.
         /// </summary>
-        private static volatile DalManager _instance;
+        private static volatile SubDalManager _instance;
+        /// <summary>
+        /// Objet qui sert a faire le lock.
+        /// </summary>
         private static readonly object padlock = new object();
 
         /// <summary>
         /// Permet de retourner l'instance unique du manager.
         /// </summary>
         /// <returns>L'instance unique du manager.</returns>
-        public static DalManager Instance
+        public static SubDalManager Instance
         {
             get
             {
@@ -111,7 +66,7 @@ namespace SubDataAccessLayer
                     {
                         if (_instance == null)
                         {
-                            _instance = new DalManager();
+                            _instance = new SubDalManager();
                         }
                     }
                 }
@@ -122,7 +77,7 @@ namespace SubDataAccessLayer
         /// <summary>
         /// Constructeur privee.
         /// </summary>
-        private DalManager()
+        private SubDalManager()
         {
             _coupes = new List<Coupe>();
             _equipes = new List<Equipe>();
@@ -131,6 +86,60 @@ namespace SubDataAccessLayer
             _stades = new List<Stade>();
             _reservations = new List<Reservation>();
             initialiserDonnees();
+        }
+
+        /// <summary>
+        /// Permet de recuperer les coupes.
+        /// </summary>
+        /// <returns>Les coupes.</returns>
+        public List<Coupe> getCoupes()
+        {
+            return _coupes;
+        }
+
+        /// <summary>
+        /// Permet de recuperer les equipes.
+        /// </summary>
+        /// <returns>Les equipes.</returns>
+        public List<Equipe> getEquipes()
+        {
+            return _equipes;
+        }
+
+        /// <summary>
+        /// Permet de recuperer les joueurs.
+        /// </summary>
+        /// <returns>Les joueurs.</returns>
+        public List<Joueur> getJoueurs()
+        {
+            return _joueurs;
+        }
+
+        /// <summary>
+        /// Permet de recuperer les matchs.
+        /// </summary>
+        /// <returns>Les matchs.</returns>
+        public List<Match> getMatchs()
+        {
+            return _matchs;
+        }
+
+        /// <summary>
+        /// Permet de recuperer les stades.
+        /// </summary>
+        /// <returns>Les stades.</returns>
+        public List<Stade> getStades()
+        {
+            return _stades;
+        }
+
+        /// <summary>
+        /// Permet de recuperer les reservation.
+        /// </summary>
+        /// <returns>Les reservations.</returns>
+        public List<Reservation> getReservations()
+        {
+            return _reservations;
         }
 
         /// <summary>

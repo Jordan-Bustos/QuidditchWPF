@@ -1,0 +1,14 @@
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\DataAccessLayer\bin\Debug\EntitiesLayer.pdb

@@ -1,0 +1,12 @@
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\QuidditchConsole.exe.config
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\QuidditchConsole.exe
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\QuidditchConsole.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\BusinessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\EntitiesLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\BusinessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\EntitiesLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\obj\Debug\QuidditchConsole.csprojResolveAssemblyReference.cache
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\obj\Debug\QuidditchConsole.exe
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\obj\Debug\QuidditchConsole.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\SubDataAccessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\QuidditchConsole\bin\Debug\SubDataAccessLayer.pdb

@@ -1,0 +1,22 @@
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\BusinessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\BusinessLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\DataAccessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\EntitiesLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\SubDataAccessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\bin\Debug\SubDataAccessLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\obj\Debug\BusinessLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\EntitiesLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\SubDataAccessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\bin\Debug\SubDataAccessLayer.pdb
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Mes documents\Scolarité\Licence\P2\C#\TPs\Projet\QuidditchWPF\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -21,7 +21,7 @@ namespace BusinessLayer
         static public IEnumerable<String> getCoupesInIEnumeranbleString()
         {
             IEnumerable<String> listeCoupes = from coupe
-                                              in DalManager.Instance.Coupes
+                                              in SubDalManager.Instance.getCoupes()
                                               select coupe.Nom;
             return listeCoupes;
         }
@@ -34,12 +34,11 @@ namespace BusinessLayer
         static public IEnumerable<String> getMatchs(String coupeARechercher)
         {
             IEnumerable<String> listeMatchs = from coupe
-                                              in DalManager.Instance.Coupes
+                                              in SubDalManager.Instance.getCoupes()
                                               from match in coupe.Matchs 
                                               orderby match.Date ascending
                                               where coupe.Nom.Equals(coupeARechercher)
                                               select match.ToString();
-
             return listeMatchs;
         }
 
@@ -51,7 +50,7 @@ namespace BusinessLayer
         static public IEnumerable<String> getStades(String coupeARechercher)
         {
             IEnumerable<String> listeStades = from coupe
-                                              in DalManager.Instance.Coupes
+                                              in SubDalManager.Instance.getCoupes()
                                               from match in coupe.Matchs
                                               where coupe.Nom.Equals(coupeARechercher)
                                               select match.Stade.ToString();
@@ -67,7 +66,7 @@ namespace BusinessLayer
         static public IEnumerable<String> getAttrapeursDom(String coupeARechercher)
         {
             IEnumerable<String> listeAtrapeursDom = from coupe
-                                                    in DalManager.Instance.Coupes
+                                                    in SubDalManager.Instance.getCoupes()
                                                     from match in coupe.Matchs
                                                     from joueursDomicile in match.EquipeDomicile.Joueurs
                                                     where coupe.Nom.Equals(coupeARechercher)
@@ -83,7 +82,7 @@ namespace BusinessLayer
         static public List<Coupe> getCoupes()
         {
             IEnumerable<Coupe> listeCoupes = from coupe
-                                              in DalManager.Instance.Coupes
+                                              in SubDalManager.Instance.getCoupes()
                                               select coupe;
             return new List<Coupe>(listeCoupes);
         }
@@ -95,7 +94,7 @@ namespace BusinessLayer
         static public List<Equipe> getEquipes()
         {
             IEnumerable<Equipe> listeEquipes = from equipe
-                                              in DalManager.Instance.Equipes
+                                              in SubDalManager.Instance.getEquipes()
                                              select equipe;
             return new List<Equipe>(listeEquipes);
         }
@@ -107,7 +106,7 @@ namespace BusinessLayer
         static public List<Joueur> getJoueurs()
         {
             IEnumerable<Joueur> listeJoueurs = from joueur
-                                              in DalManager.Instance.Joueurs
+                                              in SubDalManager.Instance.getJoueurs()
                                                select joueur;
             return new List<Joueur>(listeJoueurs);
         }
@@ -119,7 +118,7 @@ namespace BusinessLayer
         static public List<Match> getMatchs()
         {
             IEnumerable<Match> listeMatchs = from match
-                                              in DalManager.Instance.Matchs
+                                              in SubDalManager.Instance.getMatchs()
                                               select match;
             return new List<Match>(listeMatchs);
         }
@@ -131,7 +130,7 @@ namespace BusinessLayer
         static public List<Stade> getStades()
         {
             IEnumerable<Stade> listeStades = from stade
-                                              in DalManager.Instance.Stades
+                                              in SubDalManager.Instance.getStades()
                                              select stade;
             return new List<Stade>(listeStades);
         }
@@ -143,7 +142,7 @@ namespace BusinessLayer
         static public List<Reservation> getReservations()
         {
             IEnumerable<Reservation> listeReservations = from reservation
-                                              in DalManager.Instance.Reservations
+                                              in SubDalManager.Instance.getReservations()
                                              select reservation;
             return new List<Reservation>(listeReservations);
         }

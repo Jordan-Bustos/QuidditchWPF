@@ -1,0 +1,5 @@
+U:\licencePM\P2\C#\TPs\QuidditchWPF\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+U:\licencePM\P2\C#\TPs\QuidditchWPF\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+U:\licencePM\P2\C#\TPs\QuidditchWPF\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+U:\licencePM\P2\C#\TPs\QuidditchWPF\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
